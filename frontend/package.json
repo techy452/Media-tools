@@ -1,0 +1,9 @@
+{
+  "name": "media-tools-frontend",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": { "dev": "vite --host 0.0.0.0", "build": "vite", "preview": "vite --host 0.0.0.0" },
+  "dependencies": { "vite": "^6.0.0", "react": "^18.3.1", "react-dom": "^18.3.1" },
+  "devDependencies": {}
+}
